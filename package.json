@@ -1,0 +1,19 @@
+{
+  "name": "backendwithme",
+  "version": "1.0.0",
+  "description": "this is the part learning the backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "atharva"
+  ],
+  "author": "Atharva Chaudhari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
